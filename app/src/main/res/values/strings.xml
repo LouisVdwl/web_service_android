@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Films</string>
+    <string name="searchFilm">Rechercher un film</string>
+    <string name="button_search">Chercher</string>
 </resources>
